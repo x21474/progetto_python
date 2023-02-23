@@ -1,5 +1,4 @@
-Per svolgere il progetto è stato usato Jupiter di Anaconda. Dopo aver provato, mi sono accorto di non poterlo
-caricare; ho allora estratto i file sorgente.
+Per svolgere il progetto è stato usato Jupiter di Anaconda.
 Il progetto è diviso in due parti: Monopoli autocorrelati e Monopoli con cross-correlazioni. In
 entrambi i casi è stato preparato un codice unico in cui si cambiano, interagendo con il programma, i
 valori del test da considerare, il numero di misure da considerare (con valore consigliato e testato
